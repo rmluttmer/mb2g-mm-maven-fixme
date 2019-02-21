@@ -1,7 +1,8 @@
 package guru.springframework.converters;
 
-import guru.springframework.domain.UserCommand;
+
 import guru.springframework.entities.User;
+import guru.springframework.domain.UserCommand;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
